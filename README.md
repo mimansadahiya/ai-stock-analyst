@@ -55,8 +55,8 @@ An AI-powered agentic system that generates comprehensive, institutional-grade e
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mimansadahiya/Kaggle-Capstone_AI-Stock-Investment-Analyst.git
-   cd Kaggle-Capstone_AI-Stock-Investment-Analyst
+   git clone https://github.com/mimansadahiya/ai-stock-analyst.git
+   cd ai-stock-analyst
    ```
 
 2. **Create and activate a virtual environment**:
